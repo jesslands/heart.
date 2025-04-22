@@ -19,7 +19,7 @@ const NavbarWrapper = styled.nav<{ $isScrolled: boolean }>`
   z-index: 1000;
   transition: all 0.3s ease;
   width: ${props => props.$isScrolled ? '100%' : '100%'};
-  max-width: ${props => props.$isScrolled ? '100%' : '100%'};
+  max-width: ${props => props.$isScrolled ? '100%' : '90%'};
 
   @media (min-width: 768px) {
     padding: 1rem 2rem;
