@@ -3,6 +3,12 @@
 Una aplicación bancaria digital moderna construida con Next.js, TypeScript, Tailwind CSS y Styled Components.  
 Este diseño fue inspirado en [Finzy - Finance Landing Page](https://dribbble.com/shots/25281703-Finzy-Finance-Landing-Page).
 
+# Información de la prueba tecnica
+
+Se realizo el despliegue usando dockploy (alternativa opensource de Vercel y Netlify) en un servidor y se uso el dominio [heart.koreforge.com](https://heart.koreforge.com/) para la prueba.
+Tambien, se usa Cloudflare para publicar el dominio.
+
+
 ## Tecnologías Principales
 
 - **Next.js 15.3** - Framework React con renderizado híbrido
