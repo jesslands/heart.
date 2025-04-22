@@ -1,0 +1,98 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Cuenta de Ahorro Plus",
+      "type": "Ahorro",
+      "interestRate": "2.5%",
+      "category": "Cuentas",
+      "description": "Cuenta de ahorro con alta rentabilidad y beneficios exclusivos."
+    },
+    {
+      "id": "2",
+      "name": "Tarjeta de Crédito Platinum",
+      "type": "Crédito",
+      "interestRate": "18.9%",
+      "category": "Tarjetas",
+      "description": "Tarjeta premium con beneficios exclusivos y recompensas."
+    },
+    {
+      "id": "3",
+      "name": "Fondo de Inversión Conservador",
+      "type": "Inversión",
+      "category": "Inversiones",
+      "riskLevel": "Bajo",
+      "description": "Fondo de inversión con enfoque en instrumentos de bajo riesgo."
+    },
+    {
+      "id": "4",
+      "name": "Préstamo Personal",
+      "type": "Préstamo",
+      "interestRate": "12.5%",
+      "category": "Préstamos",
+      "description": "Préstamo personal con tasas competitivas y plazos flexibles."
+    },
+    {
+      "id": "5",
+      "name": "Cuenta Corriente Premium",
+      "type": "Corriente",
+      "category": "Cuentas",
+      "description": "Cuenta corriente con beneficios exclusivos y sin comisiones mensuales."
+    },
+    {
+      "id": "6",
+      "name": "Tarjeta de Crédito Business",
+      "type": "Crédito",
+      "interestRate": "16.9%",
+      "category": "Tarjetas",
+      "description": "Tarjeta diseñada para empresas con beneficios especiales."
+    },
+    {
+      "id": "7",
+      "name": "Fondo de Inversión Agresivo",
+      "type": "Inversión",
+      "category": "Inversiones",
+      "riskLevel": "Alto",
+      "description": "Fondo de inversión con enfoque en crecimiento acelerado."
+    },
+    {
+      "id": "8",
+      "name": "Préstamo Hipotecario",
+      "type": "Hipotecario",
+      "interestRate": "7.5%",
+      "category": "Préstamos",
+      "description": "Financiamiento para la compra de tu hogar con tasas competitivas."
+    },
+    {
+      "id": "9",
+      "name": "Cuenta de Ahorro Estudiantes",
+      "type": "Ahorro",
+      "interestRate": "3.0%",
+      "category": "Cuentas",
+      "description": "Cuenta especial para estudiantes sin comisiones y alta rentabilidad."
+    },
+    {
+      "id": "10",
+      "name": "Tarjeta de Débito Gold",
+      "type": "Débito",
+      "category": "Tarjetas",
+      "description": "Tarjeta de débito con beneficios premium y seguros incluidos."
+    },
+    {
+      "id": "11",
+      "name": "Fondo de Inversión Balanceado",
+      "type": "Inversión",
+      "category": "Inversiones",
+      "riskLevel": "Medio",
+      "description": "Fondo con balance entre crecimiento y seguridad."
+    },
+    {
+      "id": "12",
+      "name": "Préstamo Automotriz",
+      "type": "Automotriz",
+      "interestRate": "9.5%",
+      "category": "Préstamos",
+      "description": "Financiamiento para la compra de vehículos nuevos o usados."
+    }
+  ]
+}
