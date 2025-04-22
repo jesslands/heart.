@@ -14,6 +14,10 @@ const MainContainer = styled.main`
 const ContentWrapper = styled.div`
   max-width: 90%;
   margin: 0 auto;
+
+  @media (max-width: 767px) {
+    max-width: 100%;
+  }
 `;
 
 const SectionDivider = styled.div`

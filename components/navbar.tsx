@@ -18,8 +18,8 @@ const NavbarWrapper = styled.nav<{ $isScrolled: boolean }>`
   right: 0;
   z-index: 1000;
   transition: all 0.3s ease;
-  width: ${props => props.$isScrolled ? '100%' : '100%'};
-  max-width: ${props => props.$isScrolled ? '100%' : '100%'};
+  width: 100%;
+  max-width: 100%;
 
   @media (min-width: 768px) {
     padding: 1rem 2rem;
@@ -86,6 +86,8 @@ const MenuButton = styled.button`
   display: block;
   padding: 0.5rem;
   cursor: pointer;
+  margin-left: auto;
+  align-self: center;
 
   @media (min-width: 768px) {
     display: none;
